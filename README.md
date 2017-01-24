@@ -25,6 +25,7 @@ bower install angular-resource -S
 
 
 
+
 After all is installed:
 
 USE 'sudo' for all
